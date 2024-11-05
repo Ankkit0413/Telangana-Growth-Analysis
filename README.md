@@ -101,7 +101,7 @@ Based on the analysis, here are some actionable recommendations for the Telangan
 
 ## Project Links
 
-- **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcwNzk5M2QtYzJiNi00MmVjLWFiNTUtNmE2ZmFmYjliYTZiIiwidCI6IjkxMjZkNDgwLTM1MTItNDUxNS1hZWJhLTEyNjE1MGFjNDNmYiJ9&pageName=ReportSection1803a188d2d950de7083)**: Interactive Power BI dashboard providing visual insights across all sectors.
-- **[Project Video Presentation](https://youtu.be/i5R0oyjsbwQ?si=3wHfSnxQiroYCUqZ)**: Overview and walkthrough of the project findings and methodology.
-- **[LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_codebasicsresumeprojectchallenge-opendatatelangana-activity-7111746848549183488-dfYO?utm_source=share&utm_medium=member_desktop)**: Original project announcement and brief summary.
-- **[Full Report & Analysis Document](https://lnkd.in/dXXrjRcW)**: Detailed report of findings and recommendations.
+- **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcwNzk5M2QtYzJiNi00MmVjLWFiNTUtNmE2ZmFmYjliYTZiIiwidCI6IjkxMjZkNDgwLTM1MTItNDUxNS1hZWJhLTEyNjE1MGFjNDNmYiJ9&pageName=ReportSection1803a188d2d950de7083)**
+- **[Project Video Presentation](https://youtu.be/i5R0oyjsbwQ?si=3wHfSnxQiroYCUqZ)**
+- **[LinkedIn Post](https://www.linkedin.com/posts/ankkitkumarguppta_codebasicsresumeprojectchallenge-opendatatelangana-activity-7111746848549183488-dfYO?utm_source=share&utm_medium=member_desktop)**
+
