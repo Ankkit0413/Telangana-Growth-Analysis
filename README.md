@@ -4,6 +4,8 @@
 ### Project Overview
 The **Telangana Growth Analysis** project aims to provide a comprehensive view of Telangana's growth metrics across key areas, including demographics, economics, and infrastructure development. By leveraging open data sources and utilizing Power BI for advanced data visualization, this project enables stakeholders to assess trends and make informed decisions based on Telangana's growth statistics.
 
+![Thumbnail](https://github.com/Ankkit0413/Telangana-Growth-Analysis/blob/main/Front%20Page.gif)
+
 ### Table of Contents
 1. [Project Objective](#project-objective)
 2. [Live Dashboard](#live-dashboard)
